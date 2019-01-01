@@ -323,6 +323,8 @@ Full-Width Styles
     padding: 10px 10px 10px 10px;
     color: #fff;
     border-radius: 2px;
+    display: inline-block;
+    margin-right: 0.3rem;
   }
   
   #main_content_wrap {
@@ -389,9 +391,6 @@ customizations
 @media screen and (max-width: 600px) {
   .header_nav {
     margin-top: 20px;
-  }
-  .header_nav a {
-    margin-right: 1rem;
   }
 
 }
