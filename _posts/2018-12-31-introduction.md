@@ -61,3 +61,11 @@ We are the Community around Magento. And as you read this article, you are likel
 And for a more precise answer, we have an [About Us]({{ site.baseurl }}/about-us.html) Page, where everyone who wants to participate more longterm and actively can put themself on. (Its as easy as doing a Pull Request, or writing a Mail)
 
 There you also find a list of people you can contact privately. Because while transparency and openness is important, not everyone is in a position to say things publicly.
+
+#### What can you do right now
+
+The Page is still under construction and needs some additional sections. ToDos are listed inside the Issues Section of the Repository. If you find something there which is missing or needs a change, feel free to put it there.
+
+Besides helping here, you can share the Page and this Post. Share it on social Media, where other people around the Magento Ecosystem can find it.
+We need to get the word out there about having now a public and central place for Diversity work.
+
