@@ -4,7 +4,12 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <meta name="description" content="Public Home of a community initiative to improve the Diversity Situation and acting as a watchdog against official and inofficial events and efforts.">
+    <meta name="description" 
+    {% if page.excerpt %}
+    content="{{ page.excerpt | strip_html | truncatewords: 50 }}"
+    {% else %}
+    content="Public Home of a community initiative to improve the Diversity Situation and acting as a watchdog against official and inofficial events and efforts."
+    {% endif %}>
 
     <link rel="stylesheet" type="text/css" media="screen" href="{{ site.baseurl }}/stylesheets/stylesheet.css">
     <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url | replace:'index.html',''}}">
