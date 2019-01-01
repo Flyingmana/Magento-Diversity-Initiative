@@ -33,7 +33,10 @@ To list a few:
 * <http://neoshops.de/2018/05/09/again-diversity-about-the-question-of-whether-the-visibility-of-women-requires-support/>
 * <https://twitter.com/wearejh/status/1062285185629196288>
 * <https://medium.com/@aleron75/whats-wrong-with-diversity-d8549a65e72e>
+* <https://www.slideshare.net/SherrieRohde/building-an-inclusive-magento-community-magetitansusa-79841052>
 * <https://firegento.com/blog/2017/12/16/turchen-16-6-ways-to-be-inclusive-in-the-magento-community/>
+* <https://magetalk.com/magetalk-episode-121-international-womens-day-w-sherrie-rohde-tanya-soroka/>
+* <https://siliconangle.com/2017/03/28/diversity-commerce-faster-way-innovation-pbwc2017/>
 * <https://magento.wufoo.com/forms/imagine-2018-diversity-discussion/> (this one is just a form to submit topics to a Diversity Discussion at imagine 2018, and yes, I list mostly things I found with a simple google search)
 * <https://magento.com/resources/increasing-diversity-tech>
 
@@ -44,8 +47,17 @@ To bring in a personal anecdote: I did grow up and did go to school in Berlin, G
 For the list I also have to mention the [Diversity Page of Adobe](https://www.adobe.com/diversity.html), to show Diversity is also for the new owner of the Magento Company an important topic.
 
 
-// Placeholder regarding ***About Us*** Page
+#### The Reason why
 
+As I described in the beginning, Iam watching the efforts now for a bit more than a year. I did research some stuff on the side and had an open eye for the efforts of other comunities and conferences. I did especially in context of the MeetMagento forward a few of these things, and pointed to some conferences which did better.
+I did hear from different sides there were meetings and diskussions about improving the Diversity. But I never heard about results of them. Also there were, as far as I see, never any official statements about this diskussions which happened behind closed doors.  
+I am convinced, the participents of this meetings had a strong interest into improving Diversity, and likely have made several plans which were also implemented.  
+But Iam here, on the other side of the closed door, having a hard time to find the traces of this results.
+But beeing on this side is something I feel more comfortable with. It allows for a more open process, more transparency, more independence. And more importantly, it allows more people to participate, as long and as much as they can and want, without the direct need of longterm comitment.
 
-// Placeholder regarding ***how and who to contanct*** Page
+#### About Us
 
+We are the Community around Magento. And as you read this article, you are likely already a part of it and just looking for a change to contribute.  
+And for a more precise answer, we have an [About Us]({{ site.baseurl }}/about-us.html) Page, where everyone who wants to participate more longterm and actively can put themself on. (Its as easy as doing a Pull Request, or writing a Mail)
+
+There you also find a list of people you can contact privately. Because while transparency and openness is important, not everyone is in a position to say things publicly.
