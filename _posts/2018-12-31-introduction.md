@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Introduction to the Diversity Initiative
-author: Flyingmana
+author: flyingmana
 ---
 
 I am watching the Diversity situation around Magento,

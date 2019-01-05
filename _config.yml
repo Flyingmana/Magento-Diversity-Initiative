@@ -1,3 +1,9 @@
 ---
 baseurl: /Magento-Diversity-Initiative
 excerpt_separator: <!--more-->
+plugins:
+  - jekyll-sitemap
+  - jekyll-feed
+gems:
+  - jekyll-sitemap
+  - jekyll-feed
